@@ -116,19 +116,19 @@ Use `--from openclaw` for OpenClaw, or **Settings > Import** in the app; first-r
 - **Security reports:** [SECURITY.md](SECURITY.md)
 
 <!-- COWORK_PUBLIC_ADOPTION_STATS_START -->
-### Adoption
+### Public Adoption Signals
 
 | Signal | Current | All time |
 |---|---:|---:|
-| GitHub stars | 488 | n/a |
-| GitHub forks | 86 | n/a |
-| Installer/server downloads | 1,777 | 1,777 |
-| Download delta | +15 | n/a |
-| npm downloads | 243 (last week) | 9,583 |
-| GitHub views, last 14-ish days | 899 total / 403 unique | n/a |
-| GitHub clones, last 14-ish days | 16,134 total / 1,191 unique | n/a |
+| GitHub stars | 491 | n/a |
+| GitHub forks | 91 | n/a |
+| Installer/server downloads | 1,812 | 1,812 |
+| Download delta | +20 | n/a |
+| npm downloads | 42 (last week) | 9,601 |
+| GitHub views, last 14-ish days | unavailable | n/a |
+| GitHub clones, last 14-ish days | unavailable | n/a |
 
-Generated 2026-10-17T07:44:52.096Z. These are public GitHub/npm adoption signals, not active-user or in-app telemetry numbers. All-time values are shown only where the source API provides lifetime coverage. [Full report](docs/public-adoption-stats.md).
+Generated 2026-10-19T08:58:22.680Z. These are public GitHub/npm adoption signals, not active-user or in-app telemetry numbers. All-time values are shown only where the source API provides lifetime coverage. [Full report](docs/public-adoption-stats.md).
 <!-- COWORK_PUBLIC_ADOPTION_STATS_END -->
 
 ## License
